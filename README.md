@@ -1,6 +1,8 @@
 # Projeto API RESTful
 Projeto de uma API RESTful com Springboot, Gradle.
 
+https://api-rest-dio.up.railway.app/swagger-ui.html
+
 ## Diagrama de Classes
 ```mermaid
 
